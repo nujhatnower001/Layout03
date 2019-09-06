@@ -1,0 +1,25 @@
+body{
+	margin: 0;
+}
+.header{
+	min-height:100px;
+	background-color:orange;
+}
+.box1{
+	min-height:200px;
+	width:70%;
+	background-color:yellow;
+	float: right;
+}
+
+.box2{
+	min-height: 500px;
+	width:70%;
+	background-color: green;
+	float:right;
+}
+.footer{
+	min-height: 100px;
+	background-color: red;
+	clear:both;
+}
